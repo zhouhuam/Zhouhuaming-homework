@@ -47,7 +47,7 @@ Apex|198|7
 # 代码
 ##### 在文档中插入代码片段
 
-'''c
+```c
 #include <stdio.h>
 #include <unistd.h>
 
@@ -56,9 +56,9 @@ int main(void)
 	printf("c..\n");
 	return 0;
 }
-'''
+```
 
-'''cpp
+```cpp
 #include <iostream>
 #include <stdlib.h>
 
@@ -69,11 +69,11 @@ int main(void)
 	cout<<"c++"<<endl;
 
 }
-'''
+```
 
-'''python
+```python
 import os
-'''
+```
 
 
 
