@@ -26,6 +26,13 @@
 * 生物学
 * 计算机
 
+1. 计算机科学
+2. 游戏
+   1. 赛博
+   2. 法环
+3. 运动
+   * 篮球
+   * 足球
 <!---
 zhouhuam/zhouhuam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
