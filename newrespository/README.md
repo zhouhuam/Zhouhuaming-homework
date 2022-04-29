@@ -82,7 +82,7 @@ import os
 
 # 插入图片
 
-![桌面壁纸](C://Users//Administrator//Desktop//无标题.png "点击图片")
+![将本地图片上传到任意媏，而后获取图片的网络地址，URL，而后才考验使用](C://Users//Administrator//Desktop//无标题.png "点击图片")
 
 
 
