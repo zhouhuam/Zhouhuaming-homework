@@ -9,6 +9,16 @@
 
 \#转义修饰符
 
+正文修饰符效果
+
+*斜体效果*
+**粗体效果**
+***斜粗体***
+
+
+
+
+
 <!---
 zhouhuam/zhouhuam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
