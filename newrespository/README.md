@@ -33,6 +33,54 @@
 3. 运动
    * 篮球
    * 足球
+
+-----------
+
+# 表格
+游戏名|价格|排行
+--|:--:|--:
+生化危机|299|12
+英雄萨姆|98|24
+Apex|198|7
+
+
+# 代码
+##### 在文档中插入代码片段
+
+'''c
+#include <stdio.h>
+#include <unistd.h>
+
+int main(void)
+{
+	printf("c..\n");
+	return 0;
+}
+'''
+
+'''cpp
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
+
+int main(void)
+{
+	cout<<"c++"<<endl;
+
+}
+'''
+
+'''python
+import os
+'''
+
+
+
+
+
+
+
 <!---
 zhouhuam/zhouhuam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
