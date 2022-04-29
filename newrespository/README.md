@@ -80,6 +80,11 @@ import os
 
 [百度一下](https://www.baidu.com "点击百度")
 
+# 插入图片
+
+![桌面壁纸](C://Users//Administrator//Desktop//无标题.png "点击图片")
+
+
 
 
 
